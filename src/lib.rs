@@ -8,3 +8,4 @@ mod header;
 pub use crate::header::PBOHeader;
 
 pub mod io;
+mod test;
